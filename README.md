@@ -31,19 +31,29 @@ Constraints:
 Note- Since input files are large, use fast input/output methods.
 # Sample Input
 1
+
 3
+
 2 1 3
+
 5
+
 3 2
+
 1 1
+
 3 2
+
 2 2
+
 3 2
+
 # Sample Output
 3
 2
 1
-Explanation
+
+# Explanation
  
 task 1: number plate of  2nd child = 3.
 task 2: rotate the circle 1 step anticlockwise, the arrangement becomes {1,3,2}.
